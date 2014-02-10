@@ -1,0 +1,1 @@
+Slices a magnitude with respect to an array of shares, ensuring that each part is not less than a minimum.
